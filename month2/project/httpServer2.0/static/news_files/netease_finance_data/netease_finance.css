@@ -1,0 +1,54 @@
+*{padding:0;margin:0}
+ul,li{list-style:none}
+fieldset,img{border:0}
+body{background:#fff}
+body,button,input,select,textarea{font:12px/1.5 tahoma,arial,"Hiragino Sans GB",\5b8b\4f53}
+input,select,textarea{font-size:100%}
+textarea{resize:none}
+table{border-collapse:collapse;border-spacing:0}
+button{cursor:pointer}
+em{font-style:normal}
+h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:500}
+a{text-decoration:none}
+a:focus{outline:0}
+img,li{vertical-align:top}
+th{text-align:inherit}
+iframe{display:block}
+textarea:focus,input[type="text"]:focus,input[type="password"]:focus{border-color:rgba(242,145,73,0.8)!important;box-shadow:0 1px 1px rgba(0,0,0,0.075) inset,0 0 8px rgba(242,145,73,0.6);outline:0 none}
+a:hover,a:active,a:focus{text-decoration:none;-webkit-transition:color .3s ease;transition:color .3s ease}
+.clearfix:after{content:"\0020";display:block;height:0;clear:both}
+.clearfix{zoom:1}
+.clearit{clear:both;height:0;font-size:0;overflow:hidden}
+.fn-text-overflow{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.fl{float:left}
+.fr{float:right}
+body,button,input,select,textarea{font:12px/1.5 \5b8b\4f53;background:#f9f9f9}
+.netease_black{display:table-row}
+.netease_hide{display:none}
+.global-hq{width:280px}
+.hq-up td{color:red!important}
+.hq-down td{color:green!important}
+.no-b-border{border-bottom:0}
+.item-cn .no_data{height:271px!important;border:0}
+.hq-title{background:#f6f6f6;color:#666;font-size:14px;float:left;width:278px;border:#ddd 1px solid;line-height:38px;text-align:center}
+.hq-status{color:#d20000;padding-left:.5em;font-size:14px}
+.hq-tablist a{cursor:pointer;width:54px;display:inline-block;*display:inline;*zoom:1;text-align:center;height:37px;line-height:37px;border-right:1px solid #ddd;color:#5d5d5d;border-bottom:1px solid #ddd}
+.hq-tablist a.first{border-left:1px solid #ddd;width:56px}
+.hq-tablist a.cur{padding:0 1px;font-weight:700;color:#5d5d5d;background:#FFF;border-bottom-color:#fff}
+.hq-showdetail{border-left:1px solid #ddd;border-right:1px solid #ddd;width:274px;overflow:hidden;position:relative;padding:0 2px;background:#fff}
+.js-table{width:99%;position:relative;height:274px;left:2px}
+.js-table li{position:absolute;top:0;left:0;width:100%}
+.js-table li.curr{display:block}
+.js-table table{width:100%}
+.js-table table tr{height:33px;line-height:33px;border-bottom:1px solid #ccc}
+td.js-hqname a{color:#666!important}
+.js-tableimg{display:none}
+.js-table table td,.js-table table th{text-align:center;color:#666;font-weight:400}
+.js-tableimg td{text-align:left}
+.fc-666{color:#666!important}
+.no-bb{border-bottom:0!important}
+.forexlink,.list-futures a{color:#009!important}
+.js-hq-detail:last-child,.js-tableimg:last-child{border:0!important}
+.itemimg table tr{height:40px!important;line-height:40px!important}
+.itemimg table .js-hq-detail-cn:last-child{border:0}
+td .blk-hq-name{width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;color:#666!important}

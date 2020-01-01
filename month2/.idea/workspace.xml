@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7ba002e-e32a-4523-9552-85070a964ed4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VPJB3VlzJYCk7t7px9EfoqNwkN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/project/http2.0" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project" />
+      <recent name="$PROJECT_DIR$/day11/ftp_file_manager" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project/http2.0" />
+      <recent name="$PROJECT_DIR$/day11" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.dict_server (1)">
+    <configuration name="dict_client (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="month2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project/ele_dictionary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/ele_dictionary/dict_client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dict_client" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="month2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project/electronic_dictionary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/electronic_dictionary/dict_client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dict_server (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="month2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project/ele_dictionary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/ele_dictionary/dict_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dict_server" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="month2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project/electronic_dictionary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project/electronic_dictionary/dict_server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_user_pass" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="month2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day16/task_user_pass.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.dict_server (1)" />
+        <item itemvalue="Python.dict_client (1)" />
+        <item itemvalue="Python.dict_client" />
+        <item itemvalue="Python.dict_server" />
+        <item itemvalue="Python.task_user_pass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7ba002e-e32a-4523-9552-85070a964ed4" name="Default Changelist" comment="" />
+      <created>1577148657918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577148657918</updated>
+      <workItem from="1577148660370" duration="24025000" />
+      <workItem from="1577236274576" duration="25709000" />
+      <workItem from="1577321724997" duration="998000" />
+      <workItem from="1577322896309" duration="24228000" />
+      <workItem from="1577408160515" duration="17867000" />
+      <workItem from="1577594970792" duration="1150000" />
+      <workItem from="1577598194255" duration="3329000" />
+      <workItem from="1577607289035" duration="7098000" />
+      <workItem from="1577677494253" duration="3539000" />
+      <workItem from="1577689987218" duration="1116000" />
+      <workItem from="1577753406249" duration="15991000" />
+      <workItem from="1577781777107" duration="14538000" />
+      <workItem from="1577841126102" duration="10894000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="166" y="61" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577771781177">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state x="166" y="61" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.733.573@67.27.733.573" timestamp="1577771781177" />
+    <state width="703" height="2" key="GridCell.Tab.0.bottom" timestamp="1577852816776">
+      <screen x="51" y="27" width="749" height="573" />
+    </state>
+    <state width="687" height="115" key="GridCell.Tab.0.bottom/47.27.753.573@47.27.753.573" timestamp="1577801810843" />
+    <state width="703" height="2" key="GridCell.Tab.0.bottom/51.27.749.573@51.27.749.573" timestamp="1577852816776" />
+    <state width="687" height="115" key="GridCell.Tab.0.bottom/67.27.733.573@67.27.733.573" timestamp="1577793303293" />
+    <state width="703" height="2" key="GridCell.Tab.0.center" timestamp="1577852816775">
+      <screen x="51" y="27" width="749" height="573" />
+    </state>
+    <state width="687" height="115" key="GridCell.Tab.0.center/47.27.753.573@47.27.753.573" timestamp="1577801810843" />
+    <state width="703" height="2" key="GridCell.Tab.0.center/51.27.749.573@51.27.749.573" timestamp="1577852816775" />
+    <state width="687" height="115" key="GridCell.Tab.0.center/67.27.733.573@67.27.733.573" timestamp="1577793303293" />
+    <state width="703" height="2" key="GridCell.Tab.0.left" timestamp="1577852816775">
+      <screen x="51" y="27" width="749" height="573" />
+    </state>
+    <state width="687" height="115" key="GridCell.Tab.0.left/47.27.753.573@47.27.753.573" timestamp="1577801810843" />
+    <state width="703" height="2" key="GridCell.Tab.0.left/51.27.749.573@51.27.749.573" timestamp="1577852816775" />
+    <state width="687" height="115" key="GridCell.Tab.0.left/67.27.733.573@67.27.733.573" timestamp="1577793303293" />
+    <state width="703" height="2" key="GridCell.Tab.0.right" timestamp="1577852816775">
+      <screen x="51" y="27" width="749" height="573" />
+    </state>
+    <state width="687" height="115" key="GridCell.Tab.0.right/47.27.753.573@47.27.753.573" timestamp="1577801810843" />
+    <state width="703" height="2" key="GridCell.Tab.0.right/51.27.749.573@51.27.749.573" timestamp="1577852816775" />
+    <state width="687" height="115" key="GridCell.Tab.0.right/67.27.733.573@67.27.733.573" timestamp="1577793303293" />
+    <state width="687" height="152" key="GridCell.Tab.1.bottom" timestamp="1577355595332">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state width="687" height="152" key="GridCell.Tab.1.bottom/67.27.733.573@67.27.733.573" timestamp="1577355595332" />
+    <state width="687" height="152" key="GridCell.Tab.1.center" timestamp="1577355595332">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state width="687" height="152" key="GridCell.Tab.1.center/67.27.733.573@67.27.733.573" timestamp="1577355595332" />
+    <state width="687" height="152" key="GridCell.Tab.1.left" timestamp="1577355595332">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state width="687" height="152" key="GridCell.Tab.1.left/67.27.733.573@67.27.733.573" timestamp="1577355595332" />
+    <state width="687" height="152" key="GridCell.Tab.1.right" timestamp="1577355595332">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state width="687" height="152" key="GridCell.Tab.1.right/67.27.733.573@67.27.733.573" timestamp="1577355595332" />
+    <state x="67" y="27" key="SettingsEditor" timestamp="1577598872949">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state x="67" y="27" key="SettingsEditor/67.27.733.573@67.27.733.573" timestamp="1577598872949" />
+    <state x="73" y="140" key="com.intellij.ide.util.TipDialog" timestamp="1577841393191">
+      <screen x="51" y="27" width="749" height="573" />
+    </state>
+    <state x="73" y="140" key="com.intellij.ide.util.TipDialog/51.27.749.573@51.27.749.573" timestamp="1577841393191" />
+    <state x="89" y="140" key="com.intellij.ide.util.TipDialog/67.27.733.573@67.27.733.573" timestamp="1577781777168" />
+    <state x="255" y="312" width="516" height="154" key="dock-window-1" timestamp="1577171959009">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state x="255" y="312" width="516" height="154" key="dock-window-1/67.27.733.573@67.27.733.573" timestamp="1577171959009" />
+    <state x="220" y="27" width="501" height="573" key="refactoring.ChangeSignatureDialog" timestamp="1577783125484">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state x="220" y="27" width="501" height="573" key="refactoring.ChangeSignatureDialog/67.27.733.573@67.27.733.573" timestamp="1577783125484" />
+    <state x="96" y="27" width="672" height="571" key="search.everywhere.popup" timestamp="1577792590506">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state x="96" y="27" width="672" height="571" key="search.everywhere.popup/67.27.733.573@67.27.733.573" timestamp="1577792590506" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/month2$te.coverage" NAME="te Coverage Results" MODIFIED="1577608398919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16" />
+    <SUITE FILE_PATH="coverage/month2$task_user_pass.coverage" NAME="task_user_pass Coverage Results" MODIFIED="1577777443953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16" />
+    <SUITE FILE_PATH="coverage/month2$thread_Event.coverage" NAME="thread_Event Coverage Results" MODIFIED="1577255971785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10" />
+    <SUITE FILE_PATH="coverage/month2$dict_client.coverage" NAME="dict_client Coverage Results" MODIFIED="1577793195082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project/electronic_dictionary" />
+    <SUITE FILE_PATH="coverage/month2$task.coverage" NAME="task Coverage Results" MODIFIED="1577242195677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09" />
+    <SUITE FILE_PATH="coverage/month2$zombie.coverage" NAME="zombie Coverage Results" MODIFIED="1577162559571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08_concur" />
+    <SUITE FILE_PATH="coverage/month2$block_io.coverage" NAME="block_io Coverage Results" MODIFIED="1577343158587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11-" />
+    <SUITE FILE_PATH="coverage/month2$threading_server.coverage" NAME="threading_server Coverage Results" MODIFIED="1577278352836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11" />
+    <SUITE FILE_PATH="coverage/month2$select_io.coverage" NAME="select_io Coverage Results" MODIFIED="1577345937382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11-" />
+    <SUITE FILE_PATH="coverage/month2$tcp_client.coverage" NAME="tcp_client Coverage Results" MODIFIED="1577274966947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11" />
+    <SUITE FILE_PATH="coverage/month2$fork.coverage" NAME="fork Coverage Results" MODIFIED="1577160904534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08_concur" />
+    <SUITE FILE_PATH="coverage/month2$test_.coverage" NAME="test_ Coverage Results" MODIFIED="1577322492271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11/ftp_file_manager" />
+    <SUITE FILE_PATH="coverage/month2$process_pool.coverage" NAME="process_pool Coverage Results" MODIFIED="1577190630225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09" />
+    <SUITE FILE_PATH="coverage/month2$Pipe.coverage" NAME="Pipe Coverage Results" MODIFIED="1577242223055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10" />
+    <SUITE FILE_PATH="coverage/month2$chat_server.coverage" NAME="chat_server Coverage Results" MODIFIED="1577177432952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09" />
+    <SUITE FILE_PATH="coverage/month2$select_server.coverage" NAME="select_server Coverage Results" MODIFIED="1577420406021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11-" />
+    <SUITE FILE_PATH="coverage/month2$tcp_client_flie.coverage" NAME="tcp_client_flie Coverage Results" MODIFIED="1577415137343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day06" />
+    <SUITE FILE_PATH="coverage/month2$chat_client.coverage" NAME="chat_client Coverage Results" MODIFIED="1577177436522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09" />
+    <SUITE FILE_PATH="coverage/month2$process_server.coverage" NAME="process_server Coverage Results" MODIFIED="1577281163861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11" />
+    <SUITE FILE_PATH="coverage/month2$deal_with_zombie.coverage" NAME="deal_with_zombie Coverage Results" MODIFIED="1577164262322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08_concur" />
+    <SUITE FILE_PATH="coverage/month2$get_pid.coverage" NAME="get_pid Coverage Results" MODIFIED="1577161911192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08_concur" />
+    <SUITE FILE_PATH="coverage/month2$poll_server.coverage" NAME="poll_server Coverage Results" MODIFIED="1577354246025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11-" />
+    <SUITE FILE_PATH="coverage/month2$thead.coverage" NAME="thead Coverage Results" MODIFIED="1577250237219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10" />
+    <SUITE FILE_PATH="coverage/month2$ftp_client.coverage" NAME="ftp_client Coverage Results" MODIFIED="1577324327486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11/ftp_file_manager" />
+    <SUITE FILE_PATH="coverage/month2$process3.coverage" NAME="process3 Coverage Results" MODIFIED="1577193414200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09" />
+    <SUITE FILE_PATH="coverage/month2$mysql.coverage" NAME="mysql Coverage Results" MODIFIED="1577760156487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16" />
+    <SUITE FILE_PATH="coverage/month2$image_mysql.coverage" NAME="image_mysql Coverage Results" MODIFIED="1577771891327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16" />
+    <SUITE FILE_PATH="coverage/month2$share_memory.coverage" NAME="share_memory Coverage Results" MODIFIED="1577246877181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10" />
+    <SUITE FILE_PATH="coverage/month2$signal.coverage" NAME="signal Coverage Results" MODIFIED="1577164737589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08_concur" />
+    <SUITE FILE_PATH="coverage/month2$regex___re.coverage" NAME="regex___re Coverage Results" MODIFIED="1577435914459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13" />
+    <SUITE FILE_PATH="coverage/month2$httpserver2_0.coverage" NAME="httpserver2.0 Coverage Results" MODIFIED="1577422257074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project/http2.0" />
+    <SUITE FILE_PATH="coverage/month2$dict_mysql.coverage" NAME="dict_mysql Coverage Results" MODIFIED="1577768429080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16" />
+    <SUITE FILE_PATH="coverage/month2$Queue___.coverage" NAME="Queue___ Coverage Results" MODIFIED="1577243899555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10" />
+    <SUITE FILE_PATH="coverage/month2$fork_server.coverage" NAME="fork_server Coverage Results" MODIFIED="1577324324720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11" />
+    <SUITE FILE_PATH="coverage/month2$fork_server__1_.coverage" NAME="fork_server (1) Coverage Results" MODIFIED="1577279676878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11" />
+    <SUITE FILE_PATH="coverage/month2$regex2.coverage" NAME="regex2 Coverage Results" MODIFIED="1577438172502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13" />
+    <SUITE FILE_PATH="coverage/month2$thead_class.coverage" NAME="thead_class Coverage Results" MODIFIED="1577251535091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10" />
+    <SUITE FILE_PATH="coverage/month2$thread_lock.coverage" NAME="thread_lock Coverage Results" MODIFIED="1577256686358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10" />
+    <SUITE FILE_PATH="coverage/month2$epoll_server.coverage" NAME="epoll_server Coverage Results" MODIFIED="1577355610867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11-" />
+    <SUITE FILE_PATH="coverage/month2$dict_server.coverage" NAME="dict_server Coverage Results" MODIFIED="1577793192865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project/electronic_dictionary" />
+    <SUITE FILE_PATH="coverage/month2$Multiprocessing.coverage" NAME="Multiprocessing Coverage Results" MODIFIED="1577188584594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09" />
+    <SUITE FILE_PATH="coverage/month2$task2.coverage" NAME="task2 Coverage Results" MODIFIED="1577260149129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10" />
+    <SUITE FILE_PATH="coverage/month2$ftp_server.coverage" NAME="ftp_server Coverage Results" MODIFIED="1577337667206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project/ftp_transmission" />
+    <SUITE FILE_PATH="coverage/month2$dict_client__1_.coverage" NAME="dict_client (1) Coverage Results" MODIFIED="1577798320064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project/ele_dictionary" />
+    <SUITE FILE_PATH="coverage/month2$flags.coverage" NAME="flags Coverage Results" MODIFIED="1577439523627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13" />
+    <SUITE FILE_PATH="coverage/month2$sem.coverage" NAME="sem Coverage Results" MODIFIED="1577248135792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10" />
+    <SUITE FILE_PATH="coverage/month2$regex1.coverage" NAME="regex1 Coverage Results" MODIFIED="1577598246333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13" />
+    <SUITE FILE_PATH="coverage/month2$read_db.coverage" NAME="read_db Coverage Results" MODIFIED="1577772334251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16" />
+    <SUITE FILE_PATH="coverage/month2$dict_server__1_.coverage" NAME="dict_server (1) Coverage Results" MODIFIED="1577852816761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project/ele_dictionary" />
+    <SUITE FILE_PATH="coverage/month2$process1.coverage" NAME="process1 Coverage Results" MODIFIED="1577191796914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day09" />
+    <SUITE FILE_PATH="coverage/month2$myThread.coverage" NAME="myThread Coverage Results" MODIFIED="1577254423522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day10" />
+    <SUITE FILE_PATH="coverage/month2$ftp_client__1_.coverage" NAME="ftp_client (1) Coverage Results" MODIFIED="1577337669995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project/ftp_transmission" />
+  </component>
+</project>

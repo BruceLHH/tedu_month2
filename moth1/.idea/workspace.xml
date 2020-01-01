@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e51409e5-80c5-4a74-8943-e5476946693a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UyMDZnPrv68S18TqsmZuHQ6p5j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/project-moth1" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project-moth1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project-moth1" />
+      <recent name="$PROJECT_DIR$/day18" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.bll">
+    <configuration name="bll" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="moth1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/project-moth1/game_2048" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project-moth1/game_2048/bll.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="moth1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day19" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day19/exercise01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="moth1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day18" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day18/exercise01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise02 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="moth1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day19" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day19/exercise02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="moth1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day18" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day18/exercise02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bll" />
+        <item itemvalue="Python.exercise02 (1)" />
+        <item itemvalue="Python.exercise01 (1)" />
+        <item itemvalue="Python.exercise01" />
+        <item itemvalue="Python.exercise02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e51409e5-80c5-4a74-8943-e5476946693a" name="Default Changelist" comment="" />
+      <created>1576324263023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576324263023</updated>
+      <workItem from="1576324266824" duration="2289000" />
+      <workItem from="1576374308191" duration="26023000" />
+      <workItem from="1576460669508" duration="16320000" />
+      <workItem from="1576480463438" duration="17823000" />
+      <workItem from="1576545331622" duration="28465000" />
+      <workItem from="1576631636129" duration="31046000" />
+      <workItem from="1576720894138" duration="16178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="238" y="221" width="395" height="182" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog" timestamp="1576723971968">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state x="238" y="221" width="395" height="182" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog/67.27.733.573@67.27.733.573" timestamp="1576723971968" />
+    <state x="216" y="70" width="424" height="484" key="FileChooserDialogImpl" timestamp="1576559083839">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state x="216" y="70" width="424" height="484" key="FileChooserDialogImpl/67.27.733.573@67.27.733.573" timestamp="1576559083839" />
+    <state width="687" height="152" key="GridCell.Tab.0.bottom" timestamp="1576746654520">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state width="687" height="152" key="GridCell.Tab.0.bottom/67.27.733.573@67.27.733.573" timestamp="1576746654520" />
+    <state width="687" height="152" key="GridCell.Tab.0.center" timestamp="1576746654520">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state width="687" height="152" key="GridCell.Tab.0.center/67.27.733.573@67.27.733.573" timestamp="1576746654520" />
+    <state width="687" height="152" key="GridCell.Tab.0.left" timestamp="1576746654520">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state width="687" height="152" key="GridCell.Tab.0.left/67.27.733.573@67.27.733.573" timestamp="1576746654520" />
+    <state width="687" height="152" key="GridCell.Tab.0.right" timestamp="1576746654520">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state width="687" height="152" key="GridCell.Tab.0.right/67.27.733.573@67.27.733.573" timestamp="1576746654520" />
+    <state width="687" height="152" key="GridCell.Tab.1.bottom" timestamp="1576746654522">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state width="687" height="152" key="GridCell.Tab.1.bottom/67.27.733.573@67.27.733.573" timestamp="1576746654522" />
+    <state width="687" height="152" key="GridCell.Tab.1.center" timestamp="1576746654521">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state width="687" height="152" key="GridCell.Tab.1.center/67.27.733.573@67.27.733.573" timestamp="1576746654521" />
+    <state width="687" height="152" key="GridCell.Tab.1.left" timestamp="1576746654521">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state width="687" height="152" key="GridCell.Tab.1.left/67.27.733.573@67.27.733.573" timestamp="1576746654521" />
+    <state width="687" height="152" key="GridCell.Tab.1.right" timestamp="1576746654521">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state width="687" height="152" key="GridCell.Tab.1.right/67.27.733.573@67.27.733.573" timestamp="1576746654521" />
+    <state x="89" y="140" key="com.intellij.ide.util.TipDialog" timestamp="1576720899689">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state x="89" y="140" key="com.intellij.ide.util.TipDialog/67.27.733.573@67.27.733.573" timestamp="1576720899689" />
+    <state x="173" y="27" width="501" height="573" key="refactoring.ChangeSignatureDialog" timestamp="1576724158057">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state x="173" y="27" width="501" height="573" key="refactoring.ChangeSignatureDialog/67.27.733.573@67.27.733.573" timestamp="1576724158057" />
+    <state x="96" y="27" width="672" height="571" key="search.everywhere.popup" timestamp="1576723967792">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state x="96" y="27" width="672" height="571" key="search.everywhere.popup/67.27.733.573@67.27.733.573" timestamp="1576723967792" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day17/exercise05.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day19/exercise01.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/moth1$exercise02_error_process.coverage" NAME="exercise02_error_process Coverage Results" MODIFIED="1576576984073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day15" />
+    <SUITE FILE_PATH="coverage/moth1$exercise02_make_iterator_.coverage" NAME="exercise02_make_iterator_ Coverage Results" MODIFIED="1576633271687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16" />
+    <SUITE FILE_PATH="coverage/moth1$exercise04_yield_Graphic.coverage" NAME="exercise04_yield_Graphic Coverage Results" MODIFIED="1576636878614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16" />
+    <SUITE FILE_PATH="coverage/moth1$skill_manager.coverage" NAME="skill_manager Coverage Results" MODIFIED="1576569409497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day15/skill_system" />
+    <SUITE FILE_PATH="coverage/moth1$exercise07.coverage" NAME="exercise07 Coverage Results" MODIFIED="1576653661956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day17" />
+    <SUITE FILE_PATH="coverage/moth1$task__1_.coverage" NAME="task (1) Coverage Results" MODIFIED="1576411536750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11" />
+    <SUITE FILE_PATH="coverage/moth1$shopping.coverage" NAME="shopping Coverage Results" MODIFIED="1576324359117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day08" />
+    <SUITE FILE_PATH="coverage/moth1$demo04.coverage" NAME="demo04 Coverage Results" MODIFIED="1576492189743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13" />
+    <SUITE FILE_PATH="coverage/moth1$2D_list_find.coverage" NAME="2D_list_find Coverage Results" MODIFIED="1576557565791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day14" />
+    <SUITE FILE_PATH="coverage/moth1$list_helper.coverage" NAME="list_helper Coverage Results" MODIFIED="1576569623201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day15/common" />
+    <SUITE FILE_PATH="coverage/moth1$exercise04.coverage" NAME="exercise04 Coverage Results" MODIFIED="1576648393731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day17" />
+    <SUITE FILE_PATH="coverage/moth1$student_manager_system.coverage" NAME="student_manager_system Coverage Results" MODIFIED="1576480701734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project-moth1" />
+    <SUITE FILE_PATH="coverage/moth1$exercise2.coverage" NAME="exercise2 Coverage Results" MODIFIED="1576642670291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day17" />
+    <SUITE FILE_PATH="coverage/moth1$exercise01.coverage" NAME="exercise01 Coverage Results" MODIFIED="1576675601879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18" />
+    <SUITE FILE_PATH="coverage/moth1$exercise03_image_manager.coverage" NAME="exercise03_image_manager Coverage Results" MODIFIED="1576499020391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13" />
+    <SUITE FILE_PATH="coverage/moth1$exercise03_myRange.coverage" NAME="exercise03_myRange Coverage Results" MODIFIED="1576634008246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16" />
+    <SUITE FILE_PATH="coverage/moth1$bll.coverage" NAME="bll Coverage Results" MODIFIED="1576737422063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project-moth1/game_2048" />
+    <SUITE FILE_PATH="coverage/moth1$task.coverage" NAME="task Coverage Results" MODIFIED="1576656442401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day17" />
+    <SUITE FILE_PATH="coverage/moth1$exercise06.coverage" NAME="exercise06 Coverage Results" MODIFIED="1576654428892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day17" />
+    <SUITE FILE_PATH="coverage/moth1$exercise01__1_.coverage" NAME="exercise01 (1) Coverage Results" MODIFIED="1576721872373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19" />
+    <SUITE FILE_PATH="coverage/moth1$skill_dovelper.coverage" NAME="skill_dovelper Coverage Results" MODIFIED="1576569335148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day15/skill_system" />
+    <SUITE FILE_PATH="coverage/moth1$exercise03.coverage" NAME="exercise03 Coverage Results" MODIFIED="1576575693595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day15" />
+    <SUITE FILE_PATH="coverage/moth1$exercise03__1_.coverage" NAME="exercise03 (1) Coverage Results" MODIFIED="1576398830443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11" />
+    <SUITE FILE_PATH="coverage/moth1$exercise02__1_.coverage" NAME="exercise02 (1) Coverage Results" MODIFIED="1576722326411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day19" />
+    <SUITE FILE_PATH="coverage/moth1$main.coverage" NAME="main Coverage Results" MODIFIED="1576577869639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/project-moth1/task" />
+    <SUITE FILE_PATH="coverage/moth1$exercise02.coverage" NAME="exercise02 Coverage Results" MODIFIED="1576669935015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day18" />
+    <SUITE FILE_PATH="coverage/moth1$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1576569462396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day15" />
+    <SUITE FILE_PATH="coverage/moth1$demo03.coverage" NAME="demo03 Coverage Results" MODIFIED="1576491050166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13" />
+    <SUITE FILE_PATH="coverage/moth1$test.coverage" NAME="test Coverage Results" MODIFIED="1576492106276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day13" />
+    <SUITE FILE_PATH="coverage/moth1$exercise04__1_.coverage" NAME="exercise04 (1) Coverage Results" MODIFIED="1576403949804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day11" />
+    <SUITE FILE_PATH="coverage/moth1$exercise05__1_.coverage" NAME="exercise05 (1) Coverage Results" MODIFIED="1576649515408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day17" />
+    <SUITE FILE_PATH="coverage/moth1$exercise05.coverage" NAME="exercise05 Coverage Results" MODIFIED="1576637195405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day16" />
+  </component>
+</project>
